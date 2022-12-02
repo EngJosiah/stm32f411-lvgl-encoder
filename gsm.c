@@ -3,6 +3,7 @@
  *
  *  Created on: Apr 12, 2021
  *      Author: EngJosiah
+        a modified version if library by Nimaltd
  */
 #include "gsm.h"
 extern settings_t settings;
